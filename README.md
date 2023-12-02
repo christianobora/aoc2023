@@ -15,14 +15,14 @@ My solutions for Advent of Code 2023
 Run the following command to test a given day's problem.
 
 ```shell
-go test ./puzzles/day01
+go test ./puzzles/day02
 ```
 
 
 Run the following to run the given puzzle input for the day.
 
 ```shell
-go run ./puzzles/day01/main.go
+go run ./puzzles/day02/main.go
 ```
 
 ## Template
@@ -30,7 +30,7 @@ go run ./puzzles/day01/main.go
 To create a template of files needed for a new day's puzzle, run the following command.
 
 ```shell
-./scripts/create-day 01
+./scripts/create-day 02
 ```
 
-This will create a new folder named `day01` pre-created with files for the main code, test code, and input files.
+This will create a new folder named `day02` pre-created with files for the main code, test code, and input files.
